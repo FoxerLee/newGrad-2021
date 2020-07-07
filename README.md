@@ -17,7 +17,8 @@ Keep track of internships for Summer 2020 for undergraduates interested in tech,
 
 
 ## The List - US
-|Name|Location|Application Period|Notes|Applied?|
-|:--|:--:|:--:|:--:|:--:|
-|[Goldman](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)|Multiple locations|Present|Apply `Engineering` position||
+|Name|Location|Application Period|Intern or New Grad|Notes|Applied?|
+|:--|:--:|:--:|:--:|:--:|:--:|
+|[Goldman](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)|Multiple locations|Present|New Grad|Apply `Engineering` position||
+|[HRT](https://www.hudsonrivertrading.com/careers/job/?gh_jid=2160225&gh_src=bfb803e81us)|New York, Chicago|Present|Intern|||
 
