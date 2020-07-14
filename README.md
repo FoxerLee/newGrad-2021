@@ -21,4 +21,4 @@ Keep track of internships for Summer 2020 for undergraduates interested in tech,
 |:--|:--:|:--:|:--:|:--:|:--:|
 |[Goldman](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)|Multiple locations|Present|New Grad|Apply `Engineering` position||
 |[HRT](https://www.hudsonrivertrading.com/careers/job/?gh_jid=2160225&gh_src=bfb803e81us)|New York, Chicago|Present|Intern|||
-
+|[Facebook](https://www.facebook.com/careers/students-and-grads/?p[teams][0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][1]=Internship%20-%20Business&p[teams][2]=Internship%20-%20PhD&p[teams][3]=University%20Grad%20-%20PhD%20%26%20Postdoc&p[teams][4]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][5]=University%20Grad%20-%20Business&teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=Internship%20-%20Business&teams[2]=Internship%20-%20PhD&teams[3]=University%20Grad%20-%20PhD%20%26%20Postdoc&teams[4]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[5]=University%20Grad%20-%20Business)|Multiple locations|Present|Both|||
