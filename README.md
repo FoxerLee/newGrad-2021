@@ -31,6 +31,5 @@ Keep track of internships for Summer 2020 for undergraduates interested in tech,
 |[Whisper.ai](https://boards.greenhouse.io/whisperai/jobs/4424260002)|San Francisco|Present|New Grad|||
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&jex=ENTRY_LEVEL&src=Online%2FHouse%20Ads%2FBKWS)|Multiple|Present|Both|||
 |[vmware](https://careers.vmware.com/main/jobs/R2009349?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|Palo Alto, CA|Present|New Grad|||
-
 |[Riot Game](https://www.riotgames.com/en/university-programs)|Unsure|September|Unsure|||
 
