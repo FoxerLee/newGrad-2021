@@ -29,4 +29,6 @@ Keep track of internships for Summer 2020 for undergraduates interested in tech,
 |[BNY Mellon](https://jobs.bnymellon.com/jobs?keywords=2021%20software&page=1&sortBy=relevance)|Mutiple|Present|Both|PM and DS included / Master not mentioned ||
 |[HRT](https://www.hudsonrivertrading.com/careers/?gh_src=bfb803e81us)|Mutiple|Present|Both|||
 |[Whisper.ai](https://boards.greenhouse.io/whisperai/jobs/4424260002)|San Francisco|Present|New Grad|||
+|[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&jex=ENTRY_LEVEL&src=Online%2FHouse%20Ads%2FBKWS)|Multiple|Present|Both|||
 |[Riot Game](https://www.riotgames.com/en/university-programs)|Unsure|September|Unsure|||
+
