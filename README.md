@@ -32,7 +32,11 @@ Keep track of internships for Summer 2020 for undergraduates interested in tech,
 |[Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&jex=ENTRY_LEVEL&src=Online%2FHouse%20Ads%2FBKWS)|Multiple|Present|Both|||
 |[vmware](https://careers.vmware.com/main/jobs/R2009349?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|Palo Alto, CA|Present|New Grad|||
 |[Microsoft](https://careers.microsoft.com/students/us/en/c/engineering-jobs)|Mutiple|Present|Both|||
-|[Apple](https://www.apple.com/jobs/us/students.html)|Mutiple|Present|Both|Full time jobs are [here](https://www.apple.com/jobs/us/teams.html)||
+|[Apple](https://www.apple.com/jobs/us/students.html)|Mutiple|Present|Both|Jobs for New Grad are [here](https://www.apple.com/jobs/us/teams.html)||
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/4827849002#app)|Seattle, WA; Irvine, CA; San Francisco, CA|Present|Intern|||
+|[Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions)|San Francisco, New York, Seattle|Present|Intern| No graduation date required ||
+|[IBM](https://www.ibm.com/us-en/employment/entrylevel/)|Mutiple|Present|Both|||
+|[Salesforce](https://www.salesforce.com/company/careers/university-recruiting/)|Mutiple|Present|Both|More jobs for New Grad may update later||
+|[PayPal](https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads)|Mutiple|Present|Both|||
 |[Riot Game](https://www.riotgames.com/en/university-programs)|Unsure|September|Unsure|||
 
