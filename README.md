@@ -1,3 +1,5 @@
+This repository is archived. You can find more present jobs here: https://github.com/Pitt-CSC/NewGrad-2021. 
+
 # Summer 2021 New Grad Programs / Internships
 
 Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng) who made a similar document for the 2020 season for formatting inspiration.
@@ -7,6 +9,7 @@ Keep track of internships for Summer 2020 for undergraduates interested in tech,
 > The locations of all positions will include US and China Mainland. 
 > 
 > Positions for China Mainland are [HERE](./README-zn.md).
+
 
 
 ## Contribute
